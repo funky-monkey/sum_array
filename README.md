@@ -9,3 +9,11 @@ A very simple programming exercise:
 - print this value
 
 That's it!
+
+[Java](src/sumarray/SumArray.java)
+[JavaScript](src/sumarray/sum_array.js)
+[JavaScript Naieve](src/sumarray/sum_array_naieve.js)
+[Kotlin](src/sumarray/SumArray.kt)
+[Ruby](src/sumarray/sum_array.rb)
+
+
