@@ -1,4 +1,4 @@
-# Add Array
+# Sum Array
 
 A very simple programming exercise:
 
