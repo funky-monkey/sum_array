@@ -15,5 +15,5 @@ That's it!
 [JavaScript Naieve](src/sumarray/sum_array_naieve.js)
 [Kotlin](src/sumarray/SumArray.kt)
 [Ruby](src/sumarray/sum_array.rb)
-
+[Swift](src/sumarray/SumArray.swift)
 
